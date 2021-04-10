@@ -8,4 +8,4 @@ This is the homework-4 for making quiz with countdown.
 
 ## Screenshot for the application
 
-![Screenshot](put png here)
+![Screenshot](screenshot.png)
